@@ -1,7 +1,3 @@
-import {
-  ConsultlyLogo,
-  ParabolLogo,
-} from "@/images/logos";
 import { GitHubIcon, TelegramIcon, VKIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
